@@ -8,7 +8,7 @@ function ContactUserCard(props) {
                 <p>Lorem Ipsem</p>
             </div>
         </div>
-    )
+    );
 }
 
 export default ContactUserCard;
